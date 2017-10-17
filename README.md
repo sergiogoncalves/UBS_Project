@@ -1,4 +1,4 @@
-# UBS Test Service [![Build Status](https://travis-ci.org/sergiogoncalves/UBS.svg?branch=master)](https://travis-ci.org/sergiogoncalves/UBS)
+# UBS Test Service [![Build Status](https://travis-ci.org/sergiogoncalves/UBS_Project.svg?branch=master)](https://travis-ci.org/sergiogoncalves/UBS_Project)
 You can to start application by executing com.ubs.UBSApplication, which starts a webserver on port 8080 (http://localhost:8080) and serves SwaggerUI where can inspect and try existing endpoints.
 
 ### The assignment
