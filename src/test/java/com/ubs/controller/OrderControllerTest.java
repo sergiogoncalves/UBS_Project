@@ -14,12 +14,10 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.put;
-import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
-import com.ubs.datatransferobject.OrderDTO;
 import com.ubs.domainvalue.Messages;
-import com.ubs.util.Utils;
+
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

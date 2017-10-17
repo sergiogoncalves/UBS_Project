@@ -2,17 +2,11 @@ package com.ubs.util;
 
 import static org.junit.Assert.*;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import org.junit.Test;
 
-import com.ubs.datatransferobject.CartDTO;
 import com.ubs.datatransferobject.OrderDTO;
 import com.ubs.datatransferobject.ProductDTO;
 import com.ubs.domainobject.OrderDO;
-import com.ubs.domainobject.ProductDO;
-import com.ubs.domainobject.SpecialOfferDO;
 import com.ubs.domainvalue.Messages;
 
 public class UtilsTest {

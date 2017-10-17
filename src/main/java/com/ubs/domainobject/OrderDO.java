@@ -7,12 +7,6 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
-import javax.persistence.Transient;
-
-import org.springframework.beans.factory.annotation.Autowired;
-
-import com.ubs.dataaccessobject.SpecialOfferRepository;
-import com.ubs.util.Utils;
 
 @Entity
 @Table(name = "order_table")

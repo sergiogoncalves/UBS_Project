@@ -1,7 +1,5 @@
 package com.ubs.datatransferobject;
 
-import com.ubs.domainobject.ProductDO;
-
 public class OrderDTO {
 
 	private Long id;

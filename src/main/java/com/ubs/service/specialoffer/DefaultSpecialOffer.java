@@ -7,7 +7,6 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.ubs.dataaccessobject.SpecialOfferRepository;
-import com.ubs.domainobject.ProductDO;
 import com.ubs.domainobject.SpecialOfferDO;
 import com.ubs.exception.ConstraintsViolationException;
 import com.ubs.exception.EntityNotFoundException;

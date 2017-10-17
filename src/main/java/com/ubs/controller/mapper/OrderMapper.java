@@ -4,14 +4,11 @@ import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.ubs.datatransferobject.OrderDTO;
 import com.ubs.domainobject.OrderDO;
-import com.ubs.domainobject.ProductDO;
-import com.ubs.exception.EntityNotFoundException;
-import com.ubs.service.product.ProductService;
+
 
 @Service
 public class OrderMapper {

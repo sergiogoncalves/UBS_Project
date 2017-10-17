@@ -2,9 +2,6 @@ package com.ubs.datatransferobject;
 
 import java.util.List;
 
-
-import com.ubs.domainobject.OrderDO;
-
 public class CartDTO {
 
 	private Long id;
